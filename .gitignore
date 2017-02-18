@@ -1,0 +1,17 @@
+configure
+*.in
+Makefile
+*.log*
+*.out*
+build-aux/
+config.status
+aclocal.m4
+autom4te.cache/
+.deps/
+.dirstamp
+
+emitter
+receptor
+
+*.o
+*.swp
